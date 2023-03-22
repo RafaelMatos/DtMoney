@@ -3,7 +3,7 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
 
 <img src='./tela.png' alt='git da tela da aplicação Dt Money'>
 
-## Tecnologias usadas
+## Tecnologias usadas ⚙
   - React.js
   - Typescript
   - Styled Components
@@ -11,6 +11,9 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
   - Zod
   - Immer
   - Vite -->
+
+## Ultima atualização 🔃
+- Adicionado input de pesquisa de transação( ainda não funcional )
 
 ## Como utilizar
 - Clone o projeto do repositório
