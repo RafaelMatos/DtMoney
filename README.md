@@ -7,6 +7,7 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
   - React.js
   - Typescript
   - Styled Components
+  - Radix
   <!-- - React Hook Form
   - Zod
   - Immer
@@ -14,6 +15,7 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
 
 ## Ultima atualização 🔃
 - Adicionado input de pesquisa de transação( ainda não funcional )
+- Criado modal de nova transação
 
 ## Como utilizar
 - Clone o projeto do repositório

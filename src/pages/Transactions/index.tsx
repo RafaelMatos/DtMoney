@@ -35,7 +35,6 @@ export function Transactions() {
           </tbody>
         </TransctionsTable>
       </TramsactionsContainer>
-      <div>Transações</div>
     </div>
   );
 }
