@@ -16,6 +16,7 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
 ## Ultima atualização 🔃
 - Adicionado input de pesquisa de transação( ainda não funcional )
 - Criado modal de nova transação
+- Uso do Radix Radio Group para botão seletores do tipo de transação
 
 ## Como utilizar
 - Clone o projeto do repositório
