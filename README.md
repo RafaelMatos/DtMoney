@@ -15,9 +15,8 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
   - Vite -->
 
 ## Ultima atualização 🔃
-- Adicionado input de pesquisa de transação( ainda não funcional )
-- Criado modal de nova transação
-- Uso do Radix Radio Group para botão seletores do tipo de transação
+- Utilizando JSON Server para servir de chamadas pra API do back
+- Aplicando contexto na aplicação
 
 ## Como utilizar
 - Clone o projeto do repositório
