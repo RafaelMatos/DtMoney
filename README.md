@@ -8,6 +8,7 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
   - Typescript
   - Styled Components
   - Radix
+  - JSON Server
   <!-- - React Hook Form
   - Zod
   - Immer
