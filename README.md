@@ -16,7 +16,7 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
 
 ## Ultima atualização 🔃
 - Utilizando JSON Server para servir de chamadas pra API do back
-- Aplicando contexto na aplicação
+- Usando Hook para componente Summary processar retorno do JSON Server
 
 ## Como utilizar
 - Clone o projeto do repositório
