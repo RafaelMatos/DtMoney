@@ -9,14 +9,16 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
   - Styled Components
   - Radix
   - JSON Server
-  <!-- - React Hook Form
+  - React Hook Form
+  - Zod
+  <!-- 
   - Zod
   - Immer
   - Vite -->
 
 ## Ultima atualização 🔃
-- Utilizando JSON Server para servir de chamadas pra API do back
-- Usando Hook para componente Summary processar retorno do JSON Server
+- Aplicado o React Hook Form para o campo de pesquisa de transação, com validação no Zod;
+- Enviando dados no formulário de pesquisa e nova transação;
 
 ## Como utilizar
 - Clone o projeto do repositório
@@ -31,10 +33,15 @@ cd DtMoney
 ```
 yarn
 ```
-- Execute o projeto
+- Execute o JSON Server
+```
+yarn dev:server
+```
+- Em outro terminal, execute o projeto
 ```
 yarn dev
 ```
+
 - Acesse no navegador o endereço indicado no terminal
 
 <img src='./endereco.png' alt='Imagem do terminal indicando endereço a ser acessado no navegador'>
