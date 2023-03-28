@@ -19,6 +19,7 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
 ## Ultima atualização 🔃
 - Aplicado o React Hook Form para o campo de pesquisa de transação, com validação no Zod;
 - Enviando dados no formulário de pesquisa e nova transação;
+- Fazendo pesquisa de transações;
 
 ## Como utilizar
 - Clone o projeto do repositório
