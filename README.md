@@ -1,7 +1,7 @@
 # Dt Money 💵
 Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse projeto será construida uma aplicação front-end web completa, conectando a uma API e será visto como performar aplicações com o React entendendo como funcionam os algoritmos internos da biblioteca e todo fluxo de renderização de componentes.
 
-<img src='./tela.png' alt='git da tela da aplicação Dt Money'>
+<img src='./tela.gif' alt='git da tela da aplicação Dt Money'>
 
 ## Tecnologias usadas ⚙
   - React.js
