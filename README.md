@@ -11,13 +11,12 @@ Projeto realizado no curso da Rocketseat🚀 na trilha React do Ignite. Nesse pr
   - JSON Server
   - React Hook Form
   - Zod
-  <!-- 
-  - Zod
-  - Immer
-  - Vite -->
+  - Axios
+  - Vite
 
 ## Ultima atualização 🔃
-- Usando biblioteca Axios para requests
+- Usando biblioteca Axios para requests da api
+- Adicionando novas transações
 
 ## Como utilizar
 - Clone o projeto do repositório

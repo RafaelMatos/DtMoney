@@ -1,28 +1,28 @@
 {
-	"transactions": [
-		{
-			"id": 1,
-			"description": "Desenvolvimento de site",
-			"type": "income",
-			"category": "Venda",
-			"price": 14000,
-			"createdAt": "Sat Mar 10 2023 10:00:00 GMT-0300 (Horário Padrão de Brasília)"
-		},
-		{
-			"id": 2,
-			"description": "Hambúrguer",
-			"type": "outcome",
-			"category": "Alimentação",
-			"price": 30,
-			"createdAt": "Sat Mar 12 2023 21:21:23 GMT-0300 (Horário Padrão de Brasília)"
-		},
-		{
-			"id": 3,
-			"description": "Ignite",
-			"type": "outcome",
-			"category": "Educação",
-			"price": 1980,
-			"createdAt": "Sat Mar 25 2023 15:11:43 GMT-0300 (Horário Padrão de Brasília)"
-		}
-	]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-03-10T03:35:34.397Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 30,
+      "createdAt": "2023-03-12T03:35:34.397Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-03-25T03:35:34.397Z"
+    }
+  ]
 }

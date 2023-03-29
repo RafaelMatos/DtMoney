@@ -8,7 +8,8 @@
     "build": "tsc && vite build",
     "dev:server": "json-server server.json -p 3333 -w -d 500",
     "preview": "vite preview",
-    "lint": "eslint src --ext .ts,.tsx"
+    "lint": "eslint src --ext .ts,.tsx",
+    "lint:fix": "eslint src --ext .ts,.tsx --fix"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.0.0",
